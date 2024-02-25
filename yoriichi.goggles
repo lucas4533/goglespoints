@@ -1,0 +1,22 @@
+/("pontos"|"moedas"|"...coins")/ 
+  AND 
+/("partner"|"socio"|"parceiro"|"exclusivo"|"vendas"|"revendedores"|"profissionais"|"fornecedores"|"gestantes"|"noiva"|"eventos")/ 
+  AND 
+/("entrar"|"login"|"senha")/ 
+  -$clientes 
+  -$promoções 
+  -$ofertas 
+  -$descontos 
+  -$compre 
+  -$milhas 
+  -$air 
+  -$compras 
+  -$noticia 
+  -$blog 
+  -$estado 
+  -$prefeitura 
+  -$gov 
+  -$edu 
+  -$facebook 
+  -$instagram 
+  -$linkedin
