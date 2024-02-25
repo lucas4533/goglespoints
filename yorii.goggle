@@ -1,1 +1,26 @@
+# 1k Short Goggles
 
+**Descrição:** Reordene os resultados para remover páginas encontradas nos 1.000 sites mais visualizados. Lista de sites principais extraída de tranco-list.eu. Os sites promovidos não são avaliados ou endossados pela Brave.
+
+**Público:** Verdadeiro  
+**Autor:** Goggles 101  
+**Avatar:** #0a7c41  
+
+- Remover páginas relacionadas a:
+  - `$clientes`
+  - `$promoções`
+  - `$ofertas`
+  - `$descontos`
+  - `$compre`
+  - `$milhas`
+  - `$air`
+  - `$compras`
+  - `$noticia`
+  - `$blog`
+  - `$estado`
+  - `$prefeitura`
+  - `$gov`
+  - `$edu`
+  - `$facebook`
+  - `$instagram`
+  - `$linkedin`
