@@ -3,11 +3,7 @@
 ! public: true
 ! author: Goggles 101
 ! avatar: #0a7c41
-/("pontos"|"moedas"|"...coins")/ 
-  AND 
-/("partner"|"socio"|"parceiro"|"exclusivo"|"vendas"|"revendedores"|"profissionais"|"fornecedores"|"gestantes"|"noiva"|"eventos")/ 
-  AND 
-/("entrar"|"login"|"senha")/ 
+
   -$clientes 
   -$promoções 
   -$ofertas 
