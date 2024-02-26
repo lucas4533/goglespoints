@@ -8,6 +8,8 @@
 *campanha*$boost,intitle=pontos
 *premios*$boost,intitle=pontos
 $resgate*$boost,intitle=pontos
+$resgatar*$boost,intitle=pontos
+$resgates*$boost,intitle=pontos
 $boost=1,intitle=incentivos
 $boost=1,intitle=acumule
 $boost=1,intitle=junte 
@@ -124,10 +126,3 @@ $discard,site=nglish.com
 $discard,site=dicionarioinformal.com.br
 $discard,site=portaldalinguaportuguesa.org
 $discard,site=sinonimos.com.br
-
-
-
-
-
-
-
