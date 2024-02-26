@@ -59,6 +59,7 @@ $discard,site=latampass.latam.com
 $discard,site=instagram.com
 $discard,site=voeazul.com.br
 $discard,site=twitter.com
+$discard,site=reclameaqui.com.br
 $discard,site=blog
 *suporte*$discard
 *compre*$discard
