@@ -53,10 +53,12 @@ $discard,site=blog
 *banco*$discard
 *top*$discard
 *melhores*$discard
+$discard,site=esfera.com.vc
 $discard,site=linkedin.com
 $discard,site=smiles.com
 $discard,site=wikipedia.org
 $discard,site=apple.com
+$discard,site=bb.com
 $discard,site=amazonaws.com
 $discard,site=yahoo.com
 $discard,site=cloudflare.com
