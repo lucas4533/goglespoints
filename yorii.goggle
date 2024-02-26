@@ -1,24 +1,17 @@
 ! name: programa de pontos
-! description: busca por programas de incentivo 
+! description: busca por programas de incentivo
 ! public: false
 ! author: Goggles 101
 ! avatar: #0a7c41
 
-
-
-!boost, Aqui são alagumas palavraas que eu priorizei. o nivel de boost varia de 1 ate 3
+!boost, Aqui estão algumas palavras que eu priorizei. O nível de boost varia de 1 até 3.
 *campanha*$boost,intitle=pontos
 *premios*$boost,intitle=pontos
 $boost=1,intitle=incentivos
 $boost=1,intitle=acumule
 $boost=1,intitle=junte 
 $boost=1,intitle=presenteie
-
-
-
-
-
-
+$resgate*$boost=2,intitle=pontos
 
 $discard,intitle=livelo.com.br
 $discard,intitle=livelo
@@ -90,43 +83,4 @@ $discard,site=windowsupdate.com
 $discard,site=vimeo.com
 $discard,site=adobe.com
 $discard,site=zoom.us
-$discard,site=doubleclick.net
-$discard,site=zhihu.com
-$discard,site=fastly.net
-$discard,site=yandex.ru
-$discard,site=mail.ru
-$discard,site=googlevideo.com
-$discard,site=wordpress.com
-$discard,site=domaincontrol.com
-$discard,site=goo.gl
-$discard,site=vk.com
-$discard,site=idinheiro.com.br
-$discard,site=gandi.net
-$discard,site=nflxso.net
-$discard,site=s-msedge.net
-$discard,site=googleusercontent.com
-$discard,site=msn.com
-$discard,site=taobao.com
-$discard,site=weibo.com
-$discard,site=aaplimg.com
-$discard,site=sharepoint.com
-$discard,site=csdn.net
-$discard,site=t.co
-$discard,site=blogspot.com
-$discard,site=mozilla.org
-$discard,site=tiktok.com
-$discard,site=google.com.hk
-$discard,site=tumblr.com
-$discard,site=cloudapp.net
-$discard,site=paypal.com
-$discard,site=edgekey.net
-$discard,site=windows.net
-$discard,site=macromedia.com
-$discard,site=webex.com
-$discard,site=nytimes.com
-$discard,site=xvideos.com
-$discard,site=nih.gov
-$discard,site=office365.com
-$discard,site=apple-dns.net
-$discard,site=163.com
-$discard,site=spotify.com
+$resgate*$discard
