@@ -10,16 +10,29 @@
 $resgate*$boost,intitle=pontos
 $resgatar*$boost,intitle=pontos
 $resgates*$boost,intitle=pontos
-$boost=1,intitle=incentivos
-$boost=1,intitle=acumule
-$boost=1,intitle=junte 
-$boost=1,intitle=presenteie
+$boost=2,intitle=programa
+$boost=2,intitle=incentivo
+$boost=2,intitle=beneficios
+$boost=2,intitle=acumular
+$boost=2,intitle=acumulativo
+$boost=2,intitle=reward
+$boost=2,intitle=bonus
+$boost=2,intitle=promoção
+$boost=2,intitle=vantagens
+
+
+# Boost em telas de login
+$boost=3,intitle=login
+$boost=3,intitle=entrar
+$boost=3,intitle=senha
+$boost=3,intitle=autenticacao
 
 $discard,intitle=livelo.com.br
 $discard,intitle=livelo
 $discard,intitle=latam
 $discard,intitle=smiles
 $discard,intitle=dotz
+$discard,intitle=descontos
 $discard,intitle=entenda
 $discard,intitle=porque
 $discard,intitle=veja
