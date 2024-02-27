@@ -4,14 +4,37 @@
 ! author: Goggles 101
 ! avatar: #0a7c41
 
+pontos$intitle
+resgate$intitle
+incentivo$intitle
+gameificação$intitle
+incentive$intitle
+presenteie$intitle
+colaboradores$intitle
+pontue$intitle
+campanha$intitle
+premie$intitle
+
+
+
+
+
+
+
+
+
+
+
 !boost, Aqui são algumas palavras que eu priorizei. O nível de boost varia de 1 até 3
-$boost=3,intitle=campnhas
+$boost=3,intitle=campnha
 $boost=3,intitle=incetivos
 $boost=3,intitle=incentive
+$boost=3,indescription=incentive
 $boost=3,intitle=gameficação
 $boost=3,intitle=gamefique
 $boost=3,intitle=ganhe
 $boost=3,intitle=pontos
+$boost=3,indescription=pontos
 $boost=3,intitle=pontue
 $boost=3,intitle=premie
 $boost=3,intitle=premiar
@@ -20,6 +43,9 @@ $boost=3,intitle=cative
 $boost=3,intitle=engaje
 $boost=3,intitle=receba
 $boost=3,intitle=repensas 
+$boost=3,indescription=recompensas
+$boost=3,indescription=premios
+$boost=3,indescription=primeiro acesso
 $boost=3,intitle=desempenho
 $boost=3,intitle=vendas
 /premios/$boost=1
@@ -31,6 +57,7 @@ $boost=3,intitle=vendas
 
 
 $boost=2,intitle=programa
+$boost=2,intitle=primeiro acesso
 $boost=2,site=programa
 $boost=2,intitle=incentivo
 $boost=2,intitle=incent
