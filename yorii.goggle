@@ -5,19 +5,19 @@
 ! avatar: #0a7c41
 
 !boost, Aqui são algumas palavras que eu priorizei. O nível de boost varia de 1 até 3
-$boost=10,intitle=pontos
-$boost=10,intitle=campnhas
-$boost=10,intitle=incetivos
-$boost=10,intitle=ganhe
-$boost=10,intitle=pontos
-$boost=10,intitle=premie
-$boost=10,intitle=incentive
-$boost=10,intitle=cative
-$boost=10,intitle=engaje
-$boost=10,intitle=receba
-$boost=10,intitle=repensas 
-$boost=10,intitle=desempenho
-$boost=10,intitle=vendas
+$boost=1000000,intitle=pontos
+$boost=3,intitle=campnhas
+$boost=3,intitle=incetivos
+$boost=3,intitle=ganhe
+$boost=3,intitle=pontos
+$boost=3,intitle=premie
+$boost=3,intitle=incentive
+$boost=3,intitle=cative
+$boost=3,intitle=engaje
+$boost=3,intitle=receba
+$boost=3,intitle=repensas 
+$boost=3,intitle=desempenho
+$boost=3,intitle=vendas
 /premios/$boost=1
 /login/$boost=1
 |https://app.*$boost=5
@@ -78,7 +78,6 @@ $discard,site=blog
 *bank*$discard
 *top*$discard
 *blog*$discard
-*melhores*$discard
 $discard,site=esfera.com.vc
 $discard,site=linkedin.com
 $discard,site=smiles.com
