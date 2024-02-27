@@ -7,9 +7,14 @@
 !boost, Aqui são algumas palavras que eu priorizei. O nível de boost varia de 1 até 3
 $boost=3,intitle=campnhas
 $boost=3,intitle=incetivos
+$boost=3,intitle=incentive
+$boost=3,intitle=gameficação
+$boost=3,intitle=gamefique
 $boost=3,intitle=ganhe
 $boost=3,intitle=pontos
+$boost=3,intitle=pontue
 $boost=3,intitle=premie
+$boost=3,intitle=premiar
 $boost=3,intitle=incentive
 $boost=3,intitle=cative
 $boost=3,intitle=engaje
@@ -19,12 +24,17 @@ $boost=3,intitle=desempenho
 $boost=3,intitle=vendas
 /premios/$boost=1
 /login/$boost=1
-|https://app.*$boost=5
+*incent*$boost=3
+*premie*$boost=3
+*rewards*$boost=3
 
 
 
 $boost=2,intitle=programa
+$boost=2,site=programa
 $boost=2,intitle=incentivo
+$boost=2,intitle=incent
+*incent*$boost=3
 $boost=2,intitle=beneficios
 $boost=2,intitle=acumular
 $boost=2,intitle=acumulativo
@@ -92,6 +102,9 @@ $discard,site=linguee.com
 
 # Sites que parecem não se encaixar na busca por resgate de pontos
 $discard,site=bbel.com.br
+$discard,site=curtai.com.br
+$discard,site=shoppingsmiles.com.br
+
 $discard,site=maybelline.com.br
 $discard,site=ofertasnaweb.com
 $discard,site=passageirodeprimeira.com
