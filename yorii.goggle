@@ -5,7 +5,7 @@
 ! avatar: #0a7c41
 
 !boost, Aqui são algumas palavras que eu priorizei. O nível de boost varia de 1 até 3
-$boost=20,intitle=pontos
+$boost=10,intitle=pontos
 $boost=3,intitle=campnhas
 $boost=3,intitle=incetivos
 $boost=3,intitle=ganhe
