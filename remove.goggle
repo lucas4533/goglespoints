@@ -10,5 +10,12 @@
 
 $discard,site=estudante
 $discard,site=indentidade
+$discard,site=trabalho
+
+
+
+$discard,intitle=estudante
+$discard,intitle=indentidade
+$discard,intitle=trabalho
 
 
