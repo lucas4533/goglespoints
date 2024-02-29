@@ -14,8 +14,8 @@ $discard,site=trabalho
 
 
 
-$discard,intitle=estudante
-$discard,intitle=indentidade
-$discard,intitle=trabalho
+$discard,intitle$estudante
+$discard,intitle$indentidade
+$discard,intitle$trabalho
 
 
