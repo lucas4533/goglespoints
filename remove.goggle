@@ -11,7 +11,8 @@
 $discard,site=estudante
 $discard,site=indentidade
 $discard,site=trabalho
-$discard,site=.gov
+$discard,site=*.gov*
+$discard,site=*.br*
 $discard,site=.edu
 $discard,site=blog
 
