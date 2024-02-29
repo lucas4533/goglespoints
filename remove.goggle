@@ -11,11 +11,15 @@
 $discard,site=estudante
 $discard,site=indentidade
 $discard,site=trabalho
+$discard,site=.gov
+$discard,site=.edu
+$discard,site=blog
+
+$discard,intitle=estudante
+$discard,intitle=indentidade
+$discard,intitle=trabalho
 
 
 
-$discard,estudante$intitle
-$discard,identidade$intitle
-$discard,trabalho$intitle
 
 
